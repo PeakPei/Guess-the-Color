@@ -1,4 +1,4 @@
-# Colors
+# Guess the Colors
 Unity/C# color guessing game
 
 
@@ -38,9 +38,7 @@ Sprites: downloaded from Google
 This game is a copyright, the original game - Guess the Color! ( https://play.google.com/store/apps/details?id=com.FruitApps.Colors )created by "Fruit Apps".
 
 
-
-![menu](https://user-images.githubusercontent.com/22663206/28594288-188dc98e-7198-11e7-8391-84c7f3c8152c.PNG)
-
-
-
-![game](https://user-images.githubusercontent.com/22663206/28594287-188bb0ea-7198-11e7-86c3-be50160350df.PNG)
+scenes: menu                     how_to_play                game
+![colorspic0](https://user-images.githubusercontent.com/22663206/28889588-294ee92a-77cd-11e7-83c2-a53048e8a65c.PNG)
+![colorspic1](https://user-images.githubusercontent.com/22663206/28889589-29757dec-77cd-11e7-911f-c3a18b1da5b4.PNG)
+![colorspic2](https://user-images.githubusercontent.com/22663206/28889590-297b2706-77cd-11e7-8551-d961b08e9b01.PNG)
