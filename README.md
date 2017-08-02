@@ -27,6 +27,10 @@ Scripts: C#
 
 
 
+Keystore password: 123456
+
+
+
 Sprites: downloaded from Google
 
 
