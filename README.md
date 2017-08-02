@@ -3,10 +3,6 @@ Unity/C# color guessing game
 
 
 
-THE GAME ISN'T DONE YET!
-
-
-
 OS: Android
 
 
@@ -36,6 +32,15 @@ Sprites: downloaded from Google
 
 
 This game is a copyright, the original game - Guess the Color! ( https://play.google.com/store/apps/details?id=com.FruitApps.Colors )created by "Fruit Apps".
+
+
+
+I've fixed the original game's bug: every time - the most darker cube is the right.
+
+
+
+
+Advertisement script are close in comments. No advertisements in game.
 
 
 
